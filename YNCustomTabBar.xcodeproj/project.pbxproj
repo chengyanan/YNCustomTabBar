@@ -16,6 +16,7 @@
 		40721A141BF31CF0001C1020 /* YNCustomTabBarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40721A131BF31CF0001C1020 /* YNCustomTabBarTests.swift */; };
 		40721A1F1BF31CF0001C1020 /* YNCustomTabBarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40721A1E1BF31CF0001C1020 /* YNCustomTabBarUITests.swift */; };
 		40721A2D1BF3223C001C1020 /* YNNJTTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40721A2C1BF3223C001C1020 /* YNNJTTabBar.swift */; };
+		40BAE2A11C7D690E009DF09F /* Simulator Screen Shot 2016年2月24日 下午12.28.51.png in Resources */ = {isa = PBXBuildFile; fileRef = 40BAE2A01C7D690E009DF09F /* Simulator Screen Shot 2016年2月24日 下午12.28.51.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		40721A1E1BF31CF0001C1020 /* YNCustomTabBarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YNCustomTabBarUITests.swift; sourceTree = "<group>"; };
 		40721A201BF31CF0001C1020 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		40721A2C1BF3223C001C1020 /* YNNJTTabBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YNNJTTabBar.swift; sourceTree = "<group>"; };
+		40BAE2A01C7D690E009DF09F /* Simulator Screen Shot 2016年2月24日 下午12.28.51.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot 2016年2月24日 下午12.28.51.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				40721A071BF31CF0001C1020 /* LaunchScreen.storyboard */,
 				40721A0A1BF31CF0001C1020 /* Info.plist */,
 				40721A2C1BF3223C001C1020 /* YNNJTTabBar.swift */,
+				40BAE2A01C7D690E009DF09F /* Simulator Screen Shot 2016年2月24日 下午12.28.51.png */,
 			);
 			path = YNCustomTabBar;
 			sourceTree = "<group>";
@@ -238,6 +241,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40BAE2A11C7D690E009DF09F /* Simulator Screen Shot 2016年2月24日 下午12.28.51.png in Resources */,
 				40721A091BF31CF0001C1020 /* LaunchScreen.storyboard in Resources */,
 				40721A061BF31CF0001C1020 /* Assets.xcassets in Resources */,
 				40721A041BF31CF0001C1020 /* Main.storyboard in Resources */,
@@ -495,6 +499,7 @@
 				40721A251BF31CF0001C1020 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		40721A261BF31CF0001C1020 /* Build configuration list for PBXNativeTarget "YNCustomTabBarTests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +508,7 @@
 				40721A281BF31CF0001C1020 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		40721A291BF31CF0001C1020 /* Build configuration list for PBXNativeTarget "YNCustomTabBarUITests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +517,7 @@
 				40721A2B1BF31CF0001C1020 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
