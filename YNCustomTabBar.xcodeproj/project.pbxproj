@@ -15,6 +15,7 @@
 		40721A091BF31CF0001C1020 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40721A071BF31CF0001C1020 /* LaunchScreen.storyboard */; };
 		40721A141BF31CF0001C1020 /* YNCustomTabBarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40721A131BF31CF0001C1020 /* YNCustomTabBarTests.swift */; };
 		40721A1F1BF31CF0001C1020 /* YNCustomTabBarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40721A1E1BF31CF0001C1020 /* YNCustomTabBarUITests.swift */; };
+		40721A2D1BF3223C001C1020 /* YNNJTTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40721A2C1BF3223C001C1020 /* YNNJTTabBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		40721A1A1BF31CF0001C1020 /* YNCustomTabBarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YNCustomTabBarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		40721A1E1BF31CF0001C1020 /* YNCustomTabBarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YNCustomTabBarUITests.swift; sourceTree = "<group>"; };
 		40721A201BF31CF0001C1020 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		40721A2C1BF3223C001C1020 /* YNNJTTabBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YNNJTTabBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				40721A051BF31CF0001C1020 /* Assets.xcassets */,
 				40721A071BF31CF0001C1020 /* LaunchScreen.storyboard */,
 				40721A0A1BF31CF0001C1020 /* Info.plist */,
+				40721A2C1BF3223C001C1020 /* YNNJTTabBar.swift */,
 			);
 			path = YNCustomTabBar;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				40721A011BF31CF0001C1020 /* SecondViewController.swift in Sources */,
 				407219FD1BF31CF0001C1020 /* AppDelegate.swift in Sources */,
 				407219FF1BF31CF0001C1020 /* FirstViewController.swift in Sources */,
+				40721A2D1BF3223C001C1020 /* YNNJTTabBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
